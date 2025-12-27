@@ -1,4 +1,11 @@
-# Smart Baby Care System 👶
+## 🛒 Bill of Materials
+| Component | Quantity | Purpose |
+| :--- | :--- | :--- |
+| ESP32 Development Board | 1 | Brain of the system |
+| Analog Sound Sensor | 1 | Detects baby crying |
+| Soil Moisture Sensor | 1 | Detects bed wetness |
+| SG90 Servo Motor | 1 | Moves the cradle |
+| Jumper Wires | 10+ | Circuit connections |# Smart Baby Care System 👶
 
 This project is an ESP32-based automated system designed to monitor and care for a baby. It detects crying and bed-wetting to provide immediate care and alerts.
 
